@@ -33,9 +33,25 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 ### Home Screen
 
+- Toggle between 'Schedule' or 'Medication' view
+- Schedule: view your missed dosages and your upcoming dosages
+- Medication: view your current medications and your past medication
+
 ### OCR
 
+- Access your device's camera to take picture of prescription slips
+- After parsing, a confirmation screen will be displayed
+- Check details of your medication and add in the date and time of first dosage
+
+![Screenshot of Camera Screen](/camerascreen.jpg)
+![Screenshot of Confirmation Screen](/confirmationscreen.jpg)
+
 ### Manual Entry
+
+- Allows users to add in their medications manually
+- Medications added here will also appear on the home screen
+  
+![Screenshot of Manual Entry Screen](/manualentryscreen.jpg)
 
 ### Notifications
 
