@@ -8,8 +8,12 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 1. [Quick Start](#quick-start)
 2. [Features](#features)
-  2.1 [Authentication](#authentication)
-3. [Tech Stack](#tech-stack)
+   2.1. [Authentication](#authentication)
+   2.2. [Home Screen](#home-screen)
+   2.3. [OCR](#ocr)
+   2.4. [Manual Entry](#manual-entry)
+   2.5. [Notifications](#notifications)
+4. [Tech Stack](#tech-stack)
 
 ## Quick Start
 
