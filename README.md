@@ -4,6 +4,13 @@
 
 MediSnap aims to reduce **medical non-adherence** by providing a quick and simple solution to remind users of their next dosage. By leveraging OCR technology and AI, MediSnap can scan your prescription slips in seconds and send out timely and personlized reminders for all of your medications.
 
+## Table of Contents
+
+1. [Quick Start](#quick-start)
+2. [Features](#features)
+  2.1 [Authentication](#authentication)
+3. [Tech Stack](#tech-stack)
+
 ## Quick Start
 
 1. Our Android apk can be found [here](https://drive.google.com/drive/folders/1_M-Xnt1yQLEqd0mJh-IClFpJwj9PsE5a?usp=sharing).
