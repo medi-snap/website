@@ -13,6 +13,22 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 ## Features
 
+### Authentication
+
+- Simple screen that can be toggled between 'sign-in' and 'sign-up'
+- Users can sign up with their email address and set a password
+
+### Home Screen
+
+### OCR
+
+### Manual Entry
+
+### Notifications
+
+- Notifications are sent out at the time of dosage by default
+- Notifications are clickale and it brings you into the home screen of the app (if open)
+
 ## Tech Stack
 - React Native
 - Typescript
