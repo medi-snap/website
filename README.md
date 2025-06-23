@@ -51,7 +51,7 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 - Allows users to add in their medications manually
 - Medications added here will also appear on the home screen
   
-![Screenshot of Manual Entry Screen](/manualentryscreen.jpg)
+![Screenshot of Manual Entry Screen](/manualentrysreen.jpg)
 
 ### Notifications
 
