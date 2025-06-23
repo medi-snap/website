@@ -18,6 +18,8 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 - Simple screen that can be toggled between 'sign-in' and 'sign-up'
 - Users can sign up with their email address and set a password
 
+![Screenshot of Sign-in Screen](/signinscreen.jpg)
+
 ### Home Screen
 
 ### OCR
