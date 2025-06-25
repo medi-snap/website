@@ -35,7 +35,9 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 - Toggle between 'Schedule' or 'Medication' view
 - Schedule: view your missed dosages and your upcoming dosages
+![Screenshot of Schedule View Screen](/schedule_view_screen.jpg)
 - Medication: view your current medications and your past medication
+![Screenshot of Medication View Screen](/medication_view_screen.jpg)
 
 ### OCR
 
