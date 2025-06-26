@@ -6,7 +6,7 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 1. [Quick Start](#quick-start)
 2. [Features](#features)
-   1. [Authentication](#authentication-🔐)
+   1. [Authentication](#authentication🔐)
    2. [Home Screen](#home-screen-🏠)
    3. [OCR](#optical-character-recognition-(ocr)-📷)
    4. [Manual Entry](#manual-entry-🗒️)
