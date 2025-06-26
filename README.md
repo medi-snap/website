@@ -43,7 +43,7 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 - After parsing, a confirmation screen will be displayed
 - Check details of your medication and add in the date and time of first dosage
 
-<img src="/camerascreen.jpg" width="100"/> <img src="/confirmationscreen.jpg" width="100"/> 
+<img src="camerascreen.jpg" width="100"/> <img src="confirmationscreen.jpg" width="100"/> 
 
 ### Manual Entry
 
