@@ -1,6 +1,4 @@
-# Medi-Snap
-
-## About Medi-Snap
+## About MediSnap
 
 MediSnap aims to reduce **medical non-adherence** by providing a quick and simple solution to remind users of their next dosage. By leveraging OCR technology and AI, MediSnap can scan your prescription slips in seconds and send out timely and personlized reminders for all of your medications.
 
@@ -45,8 +43,7 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 - After parsing, a confirmation screen will be displayed
 - Check details of your medication and add in the date and time of first dosage
 
-![Screenshot of Camera Screen](/camerascreen.jpg)
-![Screenshot of Confirmation Screen](/confirmationscreen.jpg)
+<img src="/camerascreen.jpg" width="100"/> <img src="/confirmationscreen.jpg" width="100"/> 
 
 ### Manual Entry
 
