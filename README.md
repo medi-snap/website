@@ -8,8 +8,8 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 2. [Features](#features)
    1. [Authentication](#authentication)
    2. [Home Screen](#home-screen)
-   3. [OCR](#optical-character-recognition-(ocr))
-   4. [Manual Entry](#manual-entry-)
+   3. [OCR](#optical-character-recognition)
+   4. [Manual Entry](#manual-entry)
    5. [Notifications](#notifications)
 3. [Tech Stack](#tech-stack)
 4. [Testing Guide](#testing-guide)
@@ -27,34 +27,34 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 ### Authentication
 
-- Existing users can sign in with their email address and password
-- New users can toggle to the sign up page
+- Existing users can sign in with their email address and password.
+- New users can toggle to the sign up page.
 
 ### Home Screen
 
-- Toggle between 'Schedule' or 'Medication' view
-- Schedule: view your missed dosages and your upcoming dosages
-- Medication: view your current medications and your past medication
+- Toggle between 'Schedule' or 'Medication' view.
+- Schedule: view your missed dosages and your upcoming dosages.
+- Medication: view your current medications and your past medication.
 
 <img src="medication_view_screen.jpg" width="300"/> <img src="schedule_view_screen.jpg" width="300"/>
 
-### Optical Character Recognition (OCR)
+### Optical Character Recognition
 
-- Access your device's camera to take picture of prescription slips
-- After parsing, a confirmation screen will be displayed
-- Check details of your medication and add in the date and time of first dosage
+- Access your device's camera to take picture of prescription slips.
+- After parsing, a confirmation screen will be displayed.
+- Check details of your medication and add in the date and time of first dosage.
 
 <img src="camerascreen.jpg" width="300"/> <img src="confirmationscreen.jpg" width="300"/> 
 
 ### Manual Entry
 
-- Allows users to add in their medications manually
-- Medications added here will also appear on the home screen
+- Allows users to add in their medications manually.
+- Medications added here will also appear on the home screen.
 
 ### Notifications
 
-- Notifications are sent out at the time of dosage by default ([customizable](#customization-of-dosage-timings))
-- Notifications are clickable and it brings you into the home screen of the app
+- Notifications are sent out at the time of dosage by default ([customizable](#customization-of-dosage-timings)).
+- Notifications are clickable and it brings you into the home screen of the app.
 
 ## Tech Stack
 - React Native
@@ -66,11 +66,23 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 > 📝: Note: This is only 1 example of a user workflow, there are many other ways to use this app!
 
+1. Sign in to the app.
+2. Navigate to the camera screen and take a picture of your prescription slip.
+3. On the confirmation screen, check that the extracted information is correct and set the first dosage timing to 1 minute from now.
+4. The dosage card will appear on the Schedule View of the home screen, under the 'Upcoming Dosages' section.
+5. After 1 minute, click on the notification.
+6. The MediSnap app will open and you will receive a prompt to confirm that you have taken the dosage.
+7. Once you click 'yes', that dosage card will be cleared from the Schedule View.
+
 ## Upcoming Features
 
 ### Recurring Reminders for Missed Dosages
 
 ### Customization of Dosage Timings
+
+### Show 'Upcoming Dosages' for the Next Day
+
+### In-app Tutorial
 
 ## FAQs
 
