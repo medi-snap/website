@@ -6,11 +6,11 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 1. [Quick Start](#quick-start)
 2. [Features](#features)
-   1. [Authentication](#authentication)
-   2. [Home Screen](#home-screen)
-   3. [OCR](#ocr)
-   4. [Manual Entry](#manual-entry)
-   5. [Notifications](#notifications)
+   1. [Authentication](#authentication-🔐)
+   2. [Home Screen](#home-screen-🏠)
+   3. [OCR](#optical-character-recognition-(ocr)-📷)
+   4. [Manual Entry](#manual-entry-🗒️)
+   5. [Notifications](#notifications-⏰)
 3. [Tech Stack](#tech-stack)
 4. [Testing Guide](#testing-guide)
 5. [Upcoming Features](#upcoming-features)
@@ -38,7 +38,7 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 <img src="medication_view_screen.jpg" width="300"/> <img src="schedule_view_screen.jpg" width="300"/>
 
-### OCR
+### Optical Character Recognition (OCR) 📷
 
 - Access your device's camera to take picture of prescription slips
 - After parsing, a confirmation screen will be displayed
