@@ -74,8 +74,8 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 ## FAQs
 
-> ❓: Will this app be published on the Google PlayStore?
+> ❓: Will this app be published on the Google PlayStore?   
 > ✔️: Yes, it will be published on the PlayStore by end July!
 
-> ❓: Will this app be available on iOS?
+> ❓: Will this app be available on iOS?   
 > ✔️: Yes, it will be published on the Apple AppStore by mid August!
