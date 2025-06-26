@@ -12,6 +12,9 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
    4. [Manual Entry](#manual-entry)
    5. [Notifications](#notifications)
 3. [Tech Stack](#tech-stack)
+4. [Testing Guide](#testing-guide)
+5. [Upcoming Features](#upcoming-features)
+6. [FAQs](#faqs)
 
 ## Quick Start
 
@@ -27,15 +30,13 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 - Simple screen that can be toggled between 'sign-in' and 'sign-up'
 - Users can sign up with their email address and set a password
 
-![Screenshot of Sign-in Screen](/signinscreen.jpg)
-
 ### Home Screen
 
 - Toggle between 'Schedule' or 'Medication' view
 - Schedule: view your missed dosages and your upcoming dosages
 - Medication: view your current medications and your past medication
 
-<img src="schedule_view_screen.jpg" width="300"/> <img src="medication_view_screen" width="300"/> 
+<img src="medication_view_screen.jpg" width="300"/> <img src="schedule_view_screen.jpg" width="300"/>
 
 ### OCR
 
@@ -49,16 +50,20 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 - Allows users to add in their medications manually
 - Medications added here will also appear on the home screen
-  
-![Screenshot of Manual Entry Screen](/manualentrysreen.jpg)
 
 ### Notifications
 
 - Notifications are sent out at the time of dosage by default
-- Notifications are clickale and it brings you into the home screen of the app (if open)
+- Notifications are clickable and it brings you into the home screen of the app (if open)
 
 ## Tech Stack
 - React Native
 - Typescript
 - Firebase
 - OpenAI API
+
+## Testing Guide
+
+## Upcoming Features
+
+## FAQs
