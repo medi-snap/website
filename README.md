@@ -1,6 +1,6 @@
 ## About MediSnap
 
-MediSnap aims to reduce **medical non-adherence** by providing a quick and simple solution to remind users of their next dosage. By leveraging OCR technology and AI, MediSnap can scan your prescription slips in seconds and send out timely and personlized reminders for all of your medications.
+MediSnap aims to reduce **medical non-adherence** by providing a quick and simple solution to remind users of their next dosage. By leveraging OCR technology and AI, MediSnap can scan your prescription slips in seconds and send out timely and personalized reminders for all of your medications.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 ## Quick Start
 
 1. Our Android apk can be found [here](https://drive.google.com/drive/folders/1_M-Xnt1yQLEqd0mJh-IClFpJwj9PsE5a?usp=sharing).
-2. Install our app from the link into your Android device
+2. Install our app from the link into your Android device.
 3. You might receive a prompt to 'allow unknown apps' to be installed on your device. Enable this.
 4. That's all! Your app will be installed onto your device :)
 
@@ -27,8 +27,8 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 ### Authentication
 
-- Simple screen that can be toggled between 'sign-in' and 'sign-up'
-- Users can sign up with their email address and set a password
+- Existing users can sign in with their email address and password
+- New users can toggle to the sign up page
 
 ### Home Screen
 
@@ -53,8 +53,8 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 ### Notifications
 
-- Notifications are sent out at the time of dosage by default
-- Notifications are clickable and it brings you into the home screen of the app (if open)
+- Notifications are sent out at the time of dosage by default ([customizable](#customization-of-dosage-timings))
+- Notifications are clickable and it brings you into the home screen of the app
 
 ## Tech Stack
 - React Native
@@ -64,6 +64,18 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 ## Testing Guide
 
+> 📝: Note: This is only 1 example of a user workflow, there are many other ways to use this app!
+
 ## Upcoming Features
 
+### Recurring Reminders for Missed Dosages
+
+### Customization of Dosage Timings
+
 ## FAQs
+
+> ❓: Will this app be published on the Google PlayStore?
+> ✔️: Yes, it will be published on the PlayStore by end July!
+
+> ❓: Will this app be available on iOS?
+> ✔️: Yes, it will be published on the Apple AppStore by mid August!
