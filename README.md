@@ -33,9 +33,9 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 
 - Toggle between 'Schedule' or 'Medication' view
 - Schedule: view your missed dosages and your upcoming dosages
-![Screenshot of Schedule View Screen](/schedule_view_screen.jpg)
 - Medication: view your current medications and your past medication
-![Screenshot of Medication View Screen](/medication_view_screen.jpg)
+
+<img src="schedule_view_screen.jpg" width="300"/> <img src="medication_view_screen" width="300"/> 
 
 ### OCR
 
@@ -43,7 +43,7 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 - After parsing, a confirmation screen will be displayed
 - Check details of your medication and add in the date and time of first dosage
 
-<img src="camerascreen.jpg" width="100"/> <img src="confirmationscreen.jpg" width="100"/> 
+<img src="camerascreen.jpg" width="300"/> <img src="confirmationscreen.jpg" width="300"/> 
 
 ### Manual Entry
 
