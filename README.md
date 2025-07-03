@@ -33,7 +33,7 @@ MediSnap aims to reduce **medical non-adherence** by providing a quick and simpl
 ### Home Screen
 
 - Toggle between 'Schedule' or 'Medication' view.
-- Schedule: view your missed dosages and your upcoming dosages.
+- Schedule: view your missed dosages and your upcoming dosages for today (0000 - 2359).
 - Medication: view your current medications and your past medication.
 
 <img src="medication_view_screen.jpg" width="300"/> <img src="schedule_view_screen.jpg" width="300"/>
